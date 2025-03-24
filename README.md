@@ -1,4 +1,4 @@
-# NBA Stats Web Scraper
+# 🏀 NBA Stats Web Scraper 🏀 
 
 Este proyecto automatiza la recolección de estadísticas de jugadores de la NBA desde la web oficial [nba.com/stats](https://www.nba.com/stats), utilizando Selenium para interactuar con el sitio y BeautifulSoup para parsear el HTML renderizado.
 
@@ -14,7 +14,7 @@ Instala los paquetes necesarios con:
 pip install -r requirements.txt
 ```
 
-## 🚀 Uso
+## 🏀 Uso
 
 1. Ejecuta el script principal:
 
@@ -43,4 +43,3 @@ El script imprime en consola el tiempo total que tardó en completarse el scrapi
 
 ## 🧑‍💻 Autor
 
-Proyecto desarrollado por [Tu Nombre o Equipo].
